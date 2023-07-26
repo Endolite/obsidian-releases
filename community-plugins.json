@@ -7335,4 +7335,11 @@
     "description": "render APL syntax",
     "repo": "vzsky/apl-obsidian"
   }
+  {
+    "id": "obsidian-build",
+	  "name": "Build",
+	  "author": "Arnav Patri",
+    "description": "This plugin converts a code block into a dummy file of the specified language, runs said file in the terminal with the specified commands, and deletes said file.",
+    "repo": "Endolite/obsidian-build"
+  }
 ]
